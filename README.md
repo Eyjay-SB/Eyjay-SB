@@ -1,4 +1,8 @@
-<h1 align="center">Welcome to Adrian Juv's Dev Space 👨‍💻</h1>
+<!-- 🔴 Animated Red Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=080f9c&height=190&section=header&text=Welcome%20to%20Adrian%20Juv's%20Dev%20Space%20👨‍💻&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+</p>
+
 <p align="center">
   Web Developer | Tech Support | System Integrator | Networking | Aspiring Software Engineer
 </p>
@@ -40,18 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eyjay-SB&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyjay-SB&layout=compact&theme=tokyonight" />
-</p>
-
-
----
 
 ## 🏆 Certifications & Awards
 
@@ -74,9 +66,7 @@
 ## 📬 Contact
 
 📧 Email: [adrianjuv.personal@gmail.com](mailto:adrianjuv.personal@gmail.com)  
+🌐 Portfolio: [eyjay-sb.github.io/adrianjuv](https://eyjay-sb.github.io/adrianjuv)
+
 ---
 
-## 👁️ Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eyjay-SB&style=flat-square&color=green" />
-</p>
