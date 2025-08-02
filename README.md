@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Adrian Juv's Dev Space 👨‍💻</h1>
 <p align="center">
-  Web Developer | Tech Support | System Integrator | Freelancer
+  Web Developer | Tech Support | System Integrator | Networking | Aspiring Software Engineer
 </p>
 
 ---
@@ -9,20 +9,22 @@
 
 🎓 **BS Information Technology**  
 📍 Tacloban City, Leyte, PH  
-💬 Passionate about web development, database systems, and tech support.  
-🌱 Currently improving my skills in backend development and automation.  
-🌐 Portfolio: [adrianjuv](https://eyjay-sb.github.io/adrianjuv)
+💬 Passionate about building web apps, managing databases, and delivering IT support.  
+🌱 Currently diving deeper into backend frameworks, API development, and scalable systems.  
+🌐 Portfolio: [eyjay-sb.github.io/adrianjuv](https://eyjay-sb.github.io/adrianjuv)
 
 ---
 
-## 🔧 Tech Stack
+## 💻 Tech Stack
 
-| Web Dev | Database | Support & Tools | Soft Skills |
-|--------|----------|-----------------|-------------|
-| HTML, CSS, JS, PHP | MySQL | Troubleshooting, Networking, System Monitoring | Communication, Teamwork, Critical Thinking |
+| Web Frameworks | Frontend | Backend | Styling | Database | Tools |
+|----------------|----------|---------|---------|----------|-------|
+| Laravel, React | JavaScript, HTML5 | PHP, Python, C#, C++ | Tailwind CSS, CSS3, Bootstrap | MySQL | Git, Photoshop |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,js,html,css,tailwind,bootstrap,php,mysql,git,vscode" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=photoshop" />
 </p>
 
 ---
@@ -39,8 +41,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyjay-sb&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyjay-sb&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eyjay-SB&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyjay-SB&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -72,5 +74,5 @@
 
 ## 👁️ Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eyjay-sb&style=flat-square&color=green" />
+  <img src="https://komarev.com/ghpvc/?username=Eyjay-SB&style=flat-square&color=green" />
 </p>
