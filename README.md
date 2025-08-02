@@ -22,7 +22,7 @@
 | Laravel, React | JavaScript, HTML5 | PHP, Python (Flask/FastAPI), Node.js, C#, C++ | Tailwind CSS, CSS3, Bootstrap | MySQL | Git, Photoshop |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,js,nodejs,php,python,cs,cpp,html,css,tailwind,bootstrap,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,js,nodejs,php,python,cs,cpp,html,css,tailwind,bootstrap,mysql,git" />
   <br/>
   <img src="https://skillicons.dev/icons?i=photoshop" />
 </p>
