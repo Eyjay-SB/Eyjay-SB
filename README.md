@@ -1,4 +1,3 @@
-<!-- 🔴 Animated Red Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=080f9c&height=190&section=header&text=Welcome%20to%20Adrian%20Juv's%20Dev%20Space%20👨‍💻&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
