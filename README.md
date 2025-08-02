@@ -17,14 +17,16 @@
 
 ## 💻 Tech Stack
 
-| Web Frameworks | Frontend | Backend | Styling | Database | Tools |
-|----------------|----------|---------|---------|----------|-------|
-| Laravel, React | JavaScript, HTML5 | PHP, Python (Flask/FastAPI), Node.js, C#, C++ | Tailwind CSS, CSS3, Bootstrap | MySQL | Git, Photoshop |
+| 🌐 Web Frameworks  | 🎨 Frontend        | 🔧 Backend Languages & APIs |
+|-------------------|-------------------|-----------------------------|
+| Laravel, React, Node.js | HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript | PHP, Python (Flask, FastAPI), C#, C++, ASP.NET Core, Express.js |
+
+| 🗄️ Databases       | ⚙️ Tools & Platforms            | 🔒 Others |
+|--------------------|-------------------------------|-----------|
+| MySQL, SQLite, MongoDB (⭐ bonus) | Git, GitHub, VS Code, Figma, Postman, Docker (⭐ recommended) | Photoshop, REST APIs, Networking, JSON, JWT, API Testing |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,js,nodejs,php,python,cs,cpp,html,css,tailwind,bootstrap,mysql,git" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,php,python,cs,cpp,html,css,js,tailwind,bootstrap,mysql,mongodb,sqlite,git,github,docker,postman,vscode,figma,photoshop" />
 </p>
 
 ---
