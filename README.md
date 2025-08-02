@@ -9,8 +9,8 @@
 
 🎓 **BS Information Technology**  
 📍 Tacloban City, Leyte, PH  
-💬 Passionate about building web apps, managing databases, and delivering IT support.  
-🌱 Currently diving deeper into backend frameworks, API development, and scalable systems.  
+💬 Passionate about building full-stack web apps, managing databases, and delivering IT support.  
+🌱 Currently exploring backend trends like **FastAPI**, **ASP.NET Core**, and **Node.js**.  
 🌐 Portfolio: [eyjay-sb.github.io/adrianjuv](https://eyjay-sb.github.io/adrianjuv)
 
 ---
@@ -19,10 +19,10 @@
 
 | Web Frameworks | Frontend | Backend | Styling | Database | Tools |
 |----------------|----------|---------|---------|----------|-------|
-| Laravel, React | JavaScript, HTML5 | PHP, Python, C#, C++ | Tailwind CSS, CSS3, Bootstrap | MySQL | Git, Photoshop |
+| Laravel, React | JavaScript, HTML5 | PHP, Python (Flask/FastAPI), Node.js, C#, C++ | Tailwind CSS, CSS3, Bootstrap | MySQL | Git, Photoshop |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,js,html,css,tailwind,bootstrap,php,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,js,nodejs,php,python,cs,cpp,html,css,tailwind,bootstrap,mysql,git,vscode" />
   <br/>
   <img src="https://skillicons.dev/icons?i=photoshop" />
 </p>
@@ -68,8 +68,6 @@
 ## 📬 Contact
 
 📧 Email: [adrianjuv.personal@gmail.com](mailto:adrianjuv.personal@gmail.com)  
-🌐 Website: [eyjay-sb.github.io/adrianjuv](https://eyjay-sb.github.io/adrianjuv)
-
 ---
 
 ## 👁️ Profile Views
