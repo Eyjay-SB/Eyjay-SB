@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Adrian Juv's Dev Space 👨‍💻</h1>
 <p align="center">
-  Web Developer | Tech Support | System Integrator | IT Intern | Freelancer
+  Web Developer | Tech Support | System Integrator | Freelancer
 </p>
 
 ---
