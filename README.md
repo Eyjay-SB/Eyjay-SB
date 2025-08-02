@@ -66,7 +66,6 @@
 ## 📬 Contact
 
 📧 Email: [adrianjuv.personal@gmail.com](mailto:adrianjuv.personal@gmail.com)  
-🌐 Portfolio: [eyjay-sb.github.io/adrianjuv](https://eyjay-sb.github.io/adrianjuv)
 
 ---
 
