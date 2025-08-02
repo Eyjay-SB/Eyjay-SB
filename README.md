@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=580&section=header&text=Welcome%20to%20Adrian%20Juv's%20Dev%20Space%20👨‍💻&fontColor=ffffff&fontSize=30&animation=fadeIn" />
-</p>
-
 <h1 align="center">Welcome to Adrian Juv's Dev Space 👨‍💻</h1>
 <p align="center">
   Web Developer | Tech Support | System Integrator | Networking | Aspiring Software Engineer
