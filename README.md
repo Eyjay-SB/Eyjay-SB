@@ -14,7 +14,7 @@
 🎓 **BS Information Technology**  
 📍 Tacloban City, Leyte, PH  
 💬 Passionate about building full-stack web apps, managing databases, and delivering IT support.  
-🌱 Currently exploring backend trends like **FastAPI**, **ASP.NET Core**, and **Node.js**.  
+🌱 Currently exploring backend trends like **FastAPI**, **ASP.NET Core**.  
 🌐 Portfolio: [eyjay-sb.github.io/adrianjuv](https://eyjay-sb.github.io/adrianjuv)
 
 ---
