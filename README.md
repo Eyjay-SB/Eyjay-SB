@@ -25,7 +25,7 @@
 
 | 🗄️ Databases       | ⚙️ Tools & Platforms            | 🔒 Others |
 |--------------------|-------------------------------|-----------|
-| MySQL, SQLite, MongoDB (⭐ bonus) | Git, GitHub, VS Code, Figma, Postman, Docker (⭐ recommended) | Photoshop, REST APIs, Networking, JSON, JWT, API Testing |
+| MySQL, SQLite, MongoDB | Git, GitHub, VS Code, Figma, Postman, Docker | Photoshop, REST APIs, Networking, JSON, JWT, API Testing |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,php,python,cs,cpp,html,css,js,tailwind,bootstrap,mysql,mongodb,sqlite,git,github,docker,postman,vscode,figma,photoshop" />
